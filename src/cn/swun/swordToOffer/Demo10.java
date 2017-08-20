@@ -1,5 +1,9 @@
 package cn.swun.swordToOffer;
-
+/**
+ * 
+ * @author 梅凡
+ *
+ */
 public class Demo10 {
 	  public static int getNum(int n){
 		  int count = 0;
